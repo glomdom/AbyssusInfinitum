@@ -1,0 +1,1 @@
+execute at @s align xz run summon armor_stand ~0.5 ~100 ~0.5 {Tags:["ChestCache"], ArmorItems:[{}, {}, {}, {id:"minecraft:chest", Count:1}], Small:true, Invisible:true}

@@ -1,0 +1,13 @@
+name = "Abyssus Infinitum"
+author = "glomdom"
+version = "0.0.0a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5f9c43b8f753449edbe0939c099e7eb2c7a41decdf60471dc2ebc5db1332ab46"
+
+[versions]
+forge = "43.3.8"
+minecraft = "1.19.2"
