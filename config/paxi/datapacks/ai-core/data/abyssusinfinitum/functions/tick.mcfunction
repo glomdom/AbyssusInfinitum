@@ -1,0 +1,1 @@
+execute as @e[tag=ChestCache] if data entity @s {OnGround:1b} run function abyssusinfinitum:place_cache

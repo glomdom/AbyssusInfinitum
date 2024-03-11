@@ -1,0 +1,13 @@
+name = "Paxi"
+filename = "Paxi-1.19.2-Forge-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CU0PAyzb/versions/nAUDoZw6/Paxi-1.19.2-Forge-3.0.1.jar"
+hash-format = "sha1"
+hash = "2b2f2fb80ab85437a81253dc0149250dc1d84e2c"
+
+[update]
+[update.modrinth]
+mod-id = "CU0PAyzb"
+version = "nAUDoZw6"
