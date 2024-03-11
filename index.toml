@@ -70,7 +70,7 @@ hash = "d8df9c191621924d6a8c47d76bf70c87038e3442b3fc9a4a9c0aebc3801c1a33"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "05778e90a006835ef4dd76ccf133dfaa5e7b752d5643b0b508beaad95cafd637"
+hash = "08525386af882a91d21cd9355a2b458421f48c7a5515a5989a45744e31fa8793"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
@@ -78,11 +78,51 @@ hash = "096fa4fb21d257914ddec8f407da380dc870f32fead41374de1851e39e48e32b"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "4121a33bc791e4a2eaf93e7b2d193ed2f9892e3b1d5efc67d48d4c1c43f94d86"
+hash = "a8ee520e660d642f93de3bb24e7458fa3cb5cba17bce0218e5c2c7a07de96108"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "4ac915fb96840b535eef3de0c03c3fd8f771385faff422ee29810ab8796c088d"
+hash = "a57f0e39aed603bc05684856186454db84e472c510d915a3575c2ef8e4ab6424"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "d12bcdd59a36b21e0aafaab84c9ef6749d8aeab3e28e814571625a58a5db3a87"
+
+[[files]]
+file = "config/skyblockbuilder/common-config.json5"
+hash = "0be6c7371fc8938631225ca422d49d6d75781c9372409df27ebb30d7f7bb306e"
+
+[[files]]
+file = "config/skyblockbuilder/data/biomes.txt"
+hash = "3fd6d99475d6dd618d10c71e54c0a7abb85f96c8b4ea992f4e48aa63120a1262"
+
+[[files]]
+file = "config/skyblockbuilder/data/carvers.txt"
+hash = "3a0ec12f4212b352834ef2273fbd1726235771b78f1e7da2e9644e8908983f17"
+
+[[files]]
+file = "config/skyblockbuilder/data/dimensions.txt"
+hash = "1f68a1a98c79f215e4dbe435cd0877f8d4e4712747163a345c10d39747bf8c94"
+
+[[files]]
+file = "config/skyblockbuilder/data/features.txt"
+hash = "7a757dc1d41ae94aed2cf8ef4ae7d1fd10f43c613404e124541669e5c43fb148"
+
+[[files]]
+file = "config/skyblockbuilder/data/structures.txt"
+hash = "efbac613908b5f2cf55a13f5cd83dc3ffc10dce5ae5f24078e40449d7e606374"
+
+[[files]]
+file = "config/skyblockbuilder/starter_item.json"
+hash = "3a42d346c00ddcf61ff8b82dfe2cd58419f7fdddc203eaec775dd5582468d937"
+
+[[files]]
+file = "config/skyblockbuilder/templates.json5"
+hash = "9061f81ab3c3a4852f8f0a72c23eaf4ab08380c366220e0da4bc047c5b870a9c"
+
+[[files]]
+file = "config/skyblockbuilder/templates/default.nbt"
+hash = "960682e342363b347716526320899a146a19fc062c04db98bc0e755218bbcdd2"
 
 [[files]]
 file = "generate.py"
