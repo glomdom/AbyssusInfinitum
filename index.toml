@@ -171,6 +171,21 @@ hash = "fe2b1cb8e815ed0fb5fbc46cb808411237f1694dce52f87242a1798fffcfc558"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a6747b91adb89f6e04837a3bcb59c651b6898e6a6c5b61639b01594ae73294d9"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "534a07d970cbf69e74b872218550a94fe062060e3e2c001b2c37d7c973787a07"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
 metafile = true
@@ -198,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/libx.pw.toml"
 hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7d41e05562fe72ad5c37e2853cb5d98f18580a08b212523d37a4ac379bf26617"
 metafile = true
 
 [[files]]
