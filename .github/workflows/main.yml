@@ -19,4 +19,4 @@ jobs:
       with:
         name: Abyssus-Infinitum.zip
         path: Abyssus*
-        error: Pack didn't export properly?
+        if-no-files-found: error
