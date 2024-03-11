@@ -1,0 +1,22 @@
+name: Export pack and upload zip to artifacts
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Export Curseforge zip
+      run: ./packwiz cf export
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4.3.1
+      with:
+        name: Abyssus-Infinitum.zip
+        path: Abyssus*
+        error: Pack didn't export properly?

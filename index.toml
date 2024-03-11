@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/main.yml"
+hash = "2894d719809d64f59624d515b638015945c1ffbedf8c30ddc9fcb1fe51ff1de4"
+
+[[files]]
+file = "README.md"
+hash = "d76b87b36d58a825defb5a6fc3d7a95f5851974a68c885d0ea811f522291a63d"
+
+[[files]]
 file = "config/fml.toml"
 hash = "0d360055d6d55fd32d2ed25cfe03266e6e225653ca77bec1de35753b704f7fbd"
 
@@ -22,15 +30,19 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/datapacks/ai-core/data/abyssusinfinitum/functions/cache.mcfunction"
-hash = "0af80465bfb6e2e56b0f9dd1a0ad7de78382a70bf24dbfc0c8ef67bafd60c038"
+hash = "1595c71010591c74ab9c0e3d3ad403dbc0167b1c19d703b9eeca02fcf2ff1dea"
 
 [[files]]
 file = "config/paxi/datapacks/ai-core/data/abyssusinfinitum/functions/load.mcfunction"
 hash = "0e9b7a8d1f48cf688aebbc0ce72d70989f1120687620e5901bcfa3bd6e932d54"
 
 [[files]]
+file = "config/paxi/datapacks/ai-core/data/abyssusinfinitum/functions/place_cache.mcfunction"
+hash = "9b3b68aa9b1c881991531cc505ef2a643f3e0aa3d6a3b895f08ee135d94d3e7e"
+
+[[files]]
 file = "config/paxi/datapacks/ai-core/data/abyssusinfinitum/functions/tick.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "dd4d539e31758311e4525609c30dd9ff0fb876cb9da577cdcaa56147ff469dc8"
 
 [[files]]
 file = "config/paxi/datapacks/ai-core/data/minecraft/tags/functions/load.json"
@@ -50,7 +62,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepacks/ai-assets/assets/minecraft/models/item/chest.json"
-hash = "cddf4f5abf70cb27a6ecb628f97eda6ab11c5d5d3b19437eb331ec13bacba224"
+hash = "d3cb4782b4998f94b479bdbb559a2a0e1780d5ac8b5327e1747400d8db72ab39"
 
 [[files]]
 file = "config/paxi/resourcepacks/ai-assets/pack.mcmeta"
@@ -58,7 +70,7 @@ hash = "d8df9c191621924d6a8c47d76bf70c87038e3442b3fc9a4a9c0aebc3801c1a33"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "50500ac40a0555e9a09006b73cf52ae13ae963a61eed86f58e2b65a6e2ce2834"
+hash = "05778e90a006835ef4dd76ccf133dfaa5e7b752d5643b0b508beaad95cafd637"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
@@ -66,11 +78,11 @@ hash = "096fa4fb21d257914ddec8f407da380dc870f32fead41374de1851e39e48e32b"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "ece65a78422ef219fcdb0581311ce9e375707bff9bfc921f2c563dec4113f25a"
+hash = "4121a33bc791e4a2eaf93e7b2d193ed2f9892e3b1d5efc67d48d4c1c43f94d86"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "d66377ba1c44c0ed2de894dba756f5e1e1803951e617aaa832bad671f4073206"
+hash = "4ac915fb96840b535eef3de0c03c3fd8f771385faff422ee29810ab8796c088d"
 
 [[files]]
 file = "generate.py"
