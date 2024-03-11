@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/main.yml"
-hash = "2894d719809d64f59624d515b638015945c1ffbedf8c30ddc9fcb1fe51ff1de4"
+hash = "45342c5b5f0c66b56421de3a2e3855b56bd2b4d1e81deb21fcb5d466bda05772"
 
 [[files]]
 file = "README.md"
@@ -122,7 +122,7 @@ hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9307d7537501310581a6036c788e0f306988b4b90536d629eacaa83a8987b833"
+hash = "3bea0442d74ad9116aa556afd0b84b54ecfd9504af3dabd914c829728082a34c"
 metafile = true
 
 [[files]]
@@ -131,8 +131,33 @@ hash = "fe2b1cb8e815ed0fb5fbc46cb808411237f1694dce52f87242a1798fffcfc558"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "b1764406aa98d62b756ad287f9164e84e76d44493dad9335578953465d6f22cb"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "e00e666fc6f0726fcca0f74f9252ba4b1022326ee65433b5aaa08bcd14f4390b"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "f237b341cf14b246dbd8d500d694b414141af50824b4a1c0824b289c9c755e23"
+metafile = true
+
+[[files]]
+file = "mods/libx.pw.toml"
+hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
 metafile = true
 
 [[files]]
@@ -148,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "e3467bb2df661b312db375f7172b6297a8dd9e9a03924d689e70977f71283d89"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-builder.pw.toml"
+hash = "0ec3cfd182c6031e2499698cbd23473938ba1a7c857f808ee190a6b595598695"
 metafile = true
 
 [[files]]
