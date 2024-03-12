@@ -6,7 +6,7 @@ hash = "45342c5b5f0c66b56421de3a2e3855b56bd2b4d1e81deb21fcb5d466bda05772"
 
 [[files]]
 file = "README.md"
-hash = "d76b87b36d58a825defb5a6fc3d7a95f5851974a68c885d0ea811f522291a63d"
+hash = "b18e6d8c6377d8cdc285743ba40d6ab6f0d90b182dd4bf83a5f6785796b1be27"
 
 [[files]]
 file = "config/fml.toml"
@@ -78,11 +78,11 @@ hash = "096fa4fb21d257914ddec8f407da380dc870f32fead41374de1851e39e48e32b"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "a8ee520e660d642f93de3bb24e7458fa3cb5cba17bce0218e5c2c7a07de96108"
+hash = "10ecc684ec230caf8ecddce8861263191e9cb3deb5b59a3b9a78015531c3441a"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "a57f0e39aed603bc05684856186454db84e472c510d915a3575c2ef8e4ab6424"
+hash = "05f3bc72de16e8f5e330fed549c97ca8497c6f7ac461d65e48af9c7e97d3201c"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -127,6 +127,10 @@ hash = "960682e342363b347716526320899a146a19fc062c04db98bc0e755218bbcdd2"
 [[files]]
 file = "generate.py"
 hash = "f249f97ed09e2c54e838e3de232d5f801ad7ebc35513b692dbc22e14b568c56d"
+
+[[files]]
+file = "install-dev.py"
+hash = "706b7b7ae93f1853dec3dc9f14c3408633d0be5e3777974decdd215730b151de"
 
 [[files]]
 file = "kubejs/README.txt"
