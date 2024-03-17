@@ -1,0 +1,26 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "prologue"
+	group: ""
+	id: "2A268F12D96C9E10"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "7F04C1B23506B198"
+		rewards: [{
+			auto: "invisible"
+			command: "/execute at @p run function abyssusinfinitum:cache"
+			id: "75A5E7B525F0B47B"
+			type: "command"
+		}]
+		tasks: [{
+			id: "2F0226710C9DBD3E"
+			title: "Sudden Awakening"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Prologue"
+}
