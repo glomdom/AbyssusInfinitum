@@ -1,0 +1,1 @@
+execute align xz run summon armor_stand ~0.5 ~100 ~0.5 {Tags:["1_Prologue"], ArmorItems:[{}, {}, {}, {id:"minecraft:chest", Count:1}], Small:true, Invisible:true}
